@@ -1,5 +1,5 @@
 # Oversampling-Analysis-PC
-This public repository contains the link to the source code and datasets generated during this study, submitted as part of the manuscript for Pragmatic Cybersecurity (Scilight Press). The materials can be accessed [here](https://unsw-my.sharepoint.com/:f:/g/personal/z5025758_ad_unsw_edu_au/EnuQZZn3XuNBjgfcUu4DIVMBLCHyoLHqOswirpOQifr1ag?e=gKWkLS).
+This public repository contains the link to the source code and datasets generated during this study, submitted as part of the manuscript for Pragmatic Cybersecurity (Scilight Press). The materials can be accessed [here](https://uowmailedu-my.sharepoint.com/:f:/g/personal/hmd819_uowmail_edu_au/Egw-BFLsr65Em3el7qwFr_EBzkMpeAQjD7XgaXdoJmosfA?e=bHIMZP).
 
 The link to the article will be provided once it is accepted by the journal.
 
